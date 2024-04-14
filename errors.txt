@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/screens.rpy", line 1556: 'alpha' is not a keyword argument or valid child of the imagebutton statement.
+    alpha 0.5  
+         ^
+
+File "game/screens.rpy", line 1563: 'alpha' is not a keyword argument or valid child of the imagebutton statement.
+    alpha 0.5  
+         ^
+
+Ren'Py Version: Ren'Py 8.2.1.24030407
+Sun Apr 14 01:09:00 2024
